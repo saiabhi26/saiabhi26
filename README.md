@@ -1,8 +1,6 @@
-<h3 align="center">Hi 👋, I'm Sai Abhisekh</h3>
+<h3 align="center">Hi, I'm Sai Abhisekh</h3>
 
 <p align="center">Software Engineer</p>
-
-Software Engineer building scalable APIs, backend systems, and agentic AI applications.
 
 I work across RESTful API design, message-driven architectures, database optimization, and agentic AI systems.
 
