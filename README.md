@@ -37,6 +37,7 @@ I work across RESTful API development, database optimization, and agentic AI sys
     <td align="center"><img src="https://img.shields.io/badge/express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" height="30" alt="express logo" /><br/><sub>Express</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" /><br/><sub>FastAPI</sub></td>
     <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="nextjs logo" /><br/><sub>Next.js</sub></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" /><br/><sub>Streamlit</sub></td>
   </tr>
 </table>
 
@@ -45,7 +46,6 @@ I work across RESTful API development, database optimization, and agentic AI sys
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" /><br/><sub>TensorFlow</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" /><br/><sub>PyTorch</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" alt="streamlit logo" /><br/><sub>Streamlit</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" /><br/><sub>Pandas</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" /><br/><sub>OpenCV</sub></td>
   </tr>
