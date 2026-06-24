@@ -35,7 +35,7 @@ I work across RESTful API design, message-driven architectures, database optimiz
 
 ###
 
-<p align="left">Backend & API Development</p>
+<p align="left">Frameworkst</p>
 
 ###
 
@@ -45,6 +45,7 @@ I work across RESTful API design, message-driven architectures, database optimiz
   <img src="https://img.shields.io/badge/express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="nextjs logo"  />
 </div>
 
 ###
