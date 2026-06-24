@@ -22,7 +22,6 @@ I work across RESTful API development, database optimization, and agentic AI sys
 ###
 
 <p align="left">Programming Languages</p>
-###
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /><br/><sub>Python</sub></td>
@@ -30,9 +29,8 @@ I work across RESTful API development, database optimization, and agentic AI sys
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /><br/><sub>JavaScript</sub></td>
   </tr>
 </table>
-###
+
 <p align="left">Frameworks</p>
-###
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /><br/><sub>Node.js</sub></td>
@@ -41,9 +39,8 @@ I work across RESTful API development, database optimization, and agentic AI sys
     <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="nextjs logo" /><br/><sub>Next.js</sub></td>
   </tr>
 </table>
-###
+
 <p align="left">AI & ML</p>
-###
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" /><br/><sub>TensorFlow</sub></td>
@@ -53,9 +50,8 @@ I work across RESTful API development, database optimization, and agentic AI sys
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" /><br/><sub>OpenCV</sub></td>
   </tr>
 </table>
-###
+
 <p align="left">Databases</p>
-###
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="mssql logo" /><br/><sub>SQL Server</sub></td>
@@ -63,9 +59,8 @@ I work across RESTful API development, database optimization, and agentic AI sys
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" /><br/><sub>PostgreSQL</sub></td>
   </tr>
 </table>
-###
+
 <p align="left">Tools & Practices</p>
-###
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="postman logo" /><br/><sub>Postman</sub></td>
