@@ -2,7 +2,7 @@
 
 <p align="center">Software Engineer</p>
 
-I work across RESTful API development, database optimization, and agentic AI systems.
+I work across backend components, database optimization, and agentic AI systems.
 
 🌱 I'm currently exploring agentic AI development, MCP (Model Context Protocol) server design, and deep learning applications.
 
