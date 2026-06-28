@@ -44,9 +44,10 @@ I work across backend components, database optimization, and agentic AI systems.
 <p align="left">AI & ML</p>
 <table>
   <tr>
+     <td align="center"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" alt="langchain logo" /><br/><sub>LangChain</sub></td>
+    <td align="center"><img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" height="30" alt="langgraph logo" /><br/><sub>LangGraph</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" /><br/><sub>TensorFlow</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" /><br/><sub>PyTorch</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" /><br/><sub>Pandas</sub></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo" /><br/><sub>OpenCV</sub></td>
   </tr>
 </table>
