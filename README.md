@@ -4,7 +4,7 @@
 
 I work across backend components, database optimization, and agentic AI systems.
 
-🌱 I'm currently exploring agentic AI development, MCP (Model Context Protocol) server design, and deep learning applications.
+🌱 I'm currently exploring agentic AI development, MCP (Model Context Protocol) servers, and LLM/RAG Workflows.
 
 ###
 
