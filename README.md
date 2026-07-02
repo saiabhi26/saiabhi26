@@ -2,9 +2,9 @@
 
 <p align="center">Software Engineer</p>
 
-I work across backend components, database optimization, and agentic AI systems.
+I design and build backend systems spanning API development, microservice architecture, database optimization, and cloud infrastructure.
 
-🌱 I'm currently exploring agentic AI development, MCP (Model Context Protocol) servers, and LLM/RAG Workflows.
+🌱 I'm currently exploring agentic AI development; RAG Pipelines, MCP servers, integration of LLMs with APIs, databases and real user Workflows.
 
 ###
 
