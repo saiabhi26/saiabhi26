@@ -11,10 +11,10 @@ I design and build backend systems spanning API development, microservice archit
 
 **Languages:** Python, TypeScript, JavaScript, SQL, Java
 
-**Frameworks and Libraries:** Node.js, Express.js, FastAPI, Flask, React
+**Frameworks and Libraries:** Node.js, Express.js, Spring Boot, FastAPI, Flask, React
 
 **Data:** MySQL, PostgreSQL, Redis, MongoDB, Elasticsearch, SQLAlchemy
 
-**Tools & DevOps:** Git, Docker, Kubernetes, Jenkins, Github Actions, Postman, Confluence
+**Tools & DevOps:** Kafka, Git, Docker, Kubernetes, Jenkins, Github Actions, Postman, Confluence
 
 **AI Engineering:** RAG, MCPs, Agent orchestration, Evaluations, Guardrails, memory management.
